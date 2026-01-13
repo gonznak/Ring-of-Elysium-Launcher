@@ -7,6 +7,7 @@
 
 2 - Указать расположения exe файла игры
 <p align="center"> <img src="Ring-of-Elysium-Launcher/raw/master/TutorialImages/Install_Step_2.png"> </p>
+![Project screenshot](./TutorialImages/Install_Step_2.png)
 
 3 - Кликнуть на кнопку INSTALL и дождаться завершения, после чего установочный файл можно закрыть.
 
